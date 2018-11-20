@@ -1,0 +1,56 @@
+{
+  "run": [
+    {
+      "filePath": "/src/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "id": 6682984,
+        "runnerId": "webapprunner",
+        "displayName": "Run index.html",
+        "lastRunTimeStamp": 1540270346431
+      }
+    },
+    {
+      "filePath": "/src/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "workspace": "withoutWorkspace",
+      "urlParameters": [],
+      "backendSystem": [],
+      "_metadata": {
+        "id": 5591538,
+        "runnerId": "qunitrunner",
+        "displayName": "Run index.html 1",
+        "lastRunTimeStamp": 1539768513865
+      }
+    },
+    {
+      "filePath": "/src/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "workspace": "withoutWorkspace",
+      "urlParameters": [],
+      "backendSystem": [],
+      "_metadata": {
+        "id": 4580320,
+        "runnerId": "qunitrunner",
+        "displayName": "Run index.html 2",
+        "lastRunTimeStamp": 0
+      }
+    }
+  ]
+}
